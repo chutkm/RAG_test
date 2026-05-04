@@ -1,5 +1,5 @@
 # RAG Query Script (Single Document QA)
-![RAG Pipeline](images/RAG.png)
+![RAG Pipeline](images/RAG.jpg)
 ## 📌 Описание
 
 Проект реализует простой **RAG (Retrieval-Augmented Generation)** пайплайн для ответа на вопросы по одному документу.
